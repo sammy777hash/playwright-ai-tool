@@ -1,0 +1,23 @@
+{"step":"Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://example.com/\nCall log:\n\u001b[2m  - navigating to \"https://example.com/\", waiting until \"load\"\u001b[22m\n","timestamp":1742640440085,"screenshot":"tests\\step-1742640440085.png"}
+{"step":"Navigating to login","timestamp":1742647014874,"screenshot":"tests\\step-1742647014874.png"}
+{"step":"Filling form","timestamp":1742647015427,"screenshot":"tests\\step-1742647015427.png"}
+{"step":"Error: page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#username')\u001b[22m\n","timestamp":1742647045439,"screenshot":"tests\\step-1742647045439.png"}
+{"step":"Navigating to login","timestamp":1742647686858,"screenshot":"tests\\step-1742647686858.png"}
+{"step":"Filling form","timestamp":1742647687428,"screenshot":"tests\\step-1742647687428.png"}
+{"step":"Error: page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#username')\u001b[22m\n","timestamp":1742647717440,"screenshot":"tests\\step-1742647717440.png"}
+{"step":"Error: page.evaluate: ReferenceError: require is not defined\n    at eval (eval at evaluate (:234:30), <anonymous>:3:17)\n    at UtilityScript.evaluate (<anonymous>:236:17)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)","timestamp":1742650461000,"screenshot":"tests\\step-1742650461000.png","diff":null}
+{"step":"Error: page.evaluate: ReferenceError: require is not defined\n    at eval (eval at evaluate (:234:30), <anonymous>:3:17)\n    at UtilityScript.evaluate (<anonymous>:236:17)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)","timestamp":1742650545972,"screenshot":"tests\\step-1742650545972.png","diff":null}
+{"step":"Error: page.evaluate: ReferenceError: require is not defined\n    at eval (eval at evaluate (:234:30), <anonymous>:3:17)\n    at UtilityScript.evaluate (<anonymous>:236:17)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)","timestamp":1742650593396,"screenshot":"tests\\step-1742650593396.png","diff":null}
+{"step":"Error: page.evaluate: ReferenceError: require is not defined\n    at eval (eval at evaluate (:234:30), <anonymous>:3:17)\n    at UtilityScript.evaluate (<anonymous>:236:17)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)","timestamp":1742650627599,"screenshot":"tests\\step-1742650627599.png","diff":null}
+{"step":"Navigating to login","timestamp":1742650932036,"screenshot":"tests\\step-1742650932036.png","diff":null}
+{"step":"Filling form","timestamp":1742650932445,"screenshot":"tests\\step-1742650932445.png","diff":null}
+{"step":"Error: page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#username')\u001b[22m\n","timestamp":1742650962455,"screenshot":"tests\\step-1742650962455.png","diff":null}
+{"step":"Navigating to login","timestamp":1742651098088,"screenshot":"tests\\step-1742651098088.png","diff":null}
+{"step":"Filling form","timestamp":1742651098700,"screenshot":"tests\\step-1742651098700.png","diff":null}
+{"step":"Error: page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#username')\u001b[22m\n","timestamp":1742651128712,"screenshot":"tests\\step-1742651128712.png","diff":null}
+{"step":"Navigating to login","timestamp":1742651162262,"screenshot":"tests\\step-1742651162262.png","diff":null}
+{"step":"Filling form","timestamp":1742651162749,"screenshot":"tests\\step-1742651162749.png","diff":null}
+{"step":"Error: page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#username')\u001b[22m\n","timestamp":1742651192753,"screenshot":"tests\\step-1742651192753.png","diff":null}
+{"step":"Navigating to login","timestamp":1742651876631,"screenshot":"tests\\step-1742651876631.png","diff":null}
+{"step":"Filling form","timestamp":1742651877387,"screenshot":"tests\\step-1742651877387.png","diff":null}
+{"step":"Error: page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#username')\u001b[22m\n","timestamp":1742651907393,"screenshot":"tests\\step-1742651907393.png","diff":null}

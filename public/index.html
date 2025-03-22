@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Playwright AI Tool</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Playwright AI Tool</h1>
+    <select id="language">
+      <option value="en">English</option>
+      <option value="es">Spanish</option>
+    </select>
+    <br>
+    <input id="prompt" placeholder="Enter test prompt" style="width: 300px; margin: 10px 0;">
+    <br>
+    <button onclick="speak()">🎙️ <span id="speak-label">Speak</span></button>
+    <button onclick="runTest()">Run</button>
+    <pre id="logs" style="background: #f0f0f0; padding: 10px; max-height: 400px; overflow: auto;"></pre>
+    <div id="analytics"></div>
+    <div id="screenshots"></div>
+    <div id="collaboration">
+      <h3>Collaboration</h3>
+      <input id="new-comment" placeholder="Add a comment" style="width: 300px; margin: 10px 0;">
+      <button onclick="addComment()">Add Comment</button>
+      <ul id="comments-list"></ul>
+    </div>
+  </div>
+  <script src="/script.js"></script>
+</body>
+</html>
